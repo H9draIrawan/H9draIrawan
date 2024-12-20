@@ -11,7 +11,7 @@ I am currently an undergraduate student at Institut Sains Teknologi Terpadu Sura
 * 🌍  I'm based in Surabaya, Indonesia
 * ✉️  You can contact me at [h9drairawan@gmail.com](mailto:h9drairawan@gmail.com)
 * 🧠  I'm learning Multiplatform Mobile Programming, Deep Learning, Cloud Computing, and Prompt Engineering
-* 🤝  I'm open to collaborating on AI Development, Web Development, and Mobile Development
+* 🤝  I'm open to collaborating on AI Development, and Software Development
 
 # 💻Skills
 
