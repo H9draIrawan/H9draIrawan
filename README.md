@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Hendra Irawan
 =====================================================================================================================================
 
-Artificial Intelligence Engineer, Web Developer, and Mobile App Developer
+Artificial Intelligence Engineer & Software Engineer
 -------------------------------------------------------------------------
 
 I am currently an undergraduate student at Institut Sains Teknologi Terpadu Surabaya, where I am pursuing my studies with a strong focus on the exciting field of artificial intelligence (AI). My academic journey is driven by a deep passion for exploring how AI can transform industries, enhance everyday life, and solve complex problems.
