@@ -155,6 +155,4 @@ Bachelor's degree graduate in Informatics from Institut Sains dan Teknologi Terp
 
 # ✍️ Quote
 
-## ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-[![](https://visitcount.itsvg.in/api?id=H9drairawan&icon=0&color=1)](https://visitcount.itsvg.in)
+## ![](https://quotes-github-readme.vercel.app/api?theme=radical)
