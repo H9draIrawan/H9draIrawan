@@ -1,33 +1,160 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Hendra Irawan
-=====================================================================================================================================
+# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Hendra Irawan
 
-Artificial Intelligence Engineer & Software Engineer
--------------------------------------------------------------------------
+## Software Engineer
 
-I am currently an undergraduate student at Institut Sains Teknologi Terpadu Surabaya, where I am pursuing my studies with a strong focus on the exciting field of artificial intelligence (AI). My academic journey is driven by a deep passion for exploring how AI can transform industries, enhance everyday life, and solve complex problems.
+Bachelor's degree graduate in Informatics from Institut Sains dan Teknologi Terpadu Surabaya. I am passionate about technological advancements and continuously explore emerging innovations in the field. I have knowledge and hands-on experience in web development, mobile application development, and artificial intelligence. With a strong belief in the limitless possibilities of technology, I am committed to creating impactful digital solutions and continuously improving my skills to adapt to the ever-evolving tech landscape.
 
 # 💫 About Me
 
-* 🌍  I'm based in Surabaya, Indonesia
-* ✉️  You can contact me at [h9drairawan@gmail.com](mailto:h9drairawan@gmail.com)
-* 🧠  I'm learning Multiplatform Mobile Programming, Deep Learning, Cloud Computing, and Prompt Engineering
-* 🤝  I'm open to collaborating on AI Development, and Software Development
+- 🌍 I'm based in Indonesia
+- 📚 I’m currently learning **DevOps, and MLOps**
+- ✉️ You can contact me at [h9drairawan@gmail.com](mailto:h9drairawan@gmail.com)
 
 # 💻Skills
 
-<p align="left"><a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg"width="50"height="50"alt="Dart" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg"width="50"height="50"alt="Git" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"target="_blank"rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg"width="50"height="50"alt="JavaScript" /></a><a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg"width="50"height="50"alt="Kotlin" /></a><a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg"width="50"height="50"alt="PHP" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg"width="50"height="50"alt="Python" /></a><a href="https://www.typescriptlang.org/"target="_blank"rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg"width="50"height="50"alt="TypeScript" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg"width="50"height="50"alt="VS Code" /></a><a href="https://developer.android.com/studio"target="_blank"rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Android_Studio_icon_%282023%29.svg"alt="Android Studio"width="50"height="50" /></a><a href="https://www.anaconda.com/" target="_blank" rel="noreferrer"><img src="https://anaconda.org/static/img/anaconda-symbol.svg"alt="Anaconda"width="50"height="50" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"target="_blank"rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg"width="50"height="50"alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg"width="50"height="50"alt="React" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg"width="50"height="50"alt="CSS3" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg"width="50"height="50"alt="TailwindCSS" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg"width="50"height="50"alt="Bootstrap"/></a><a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg"width="50"height="50"alt="Material UI"/></a><a href="https://streamlit.io/" target="_blank" rel="noreferrer"><img src="https://files.svgcdn.io/logos/streamlit.svg"width="50"height="50"alt="Streamlit" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg"width="50"height="50"alt="NodeJS" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg"width="50"height="50"alt="Express" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg"width="50"height="50"alt="MongoDB" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg"width="50"height="50"alt="MySQL" /></a><a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://voyager.postman.com/logo/postman-logo-icon-orange.svg"width="50"height="50"alt="Postman" /></a><a href="https://flask.palletsprojects.com/en/2.0.x/"target="_blank"rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored-dark.svg"width="50"height="50"alt="Flask" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg"width="50"height="50"alt="Figma" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg"width="50"height="50"alt="Google Cloud" /></a><a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg"width="50"height="50"alt="Flutter" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg"width="50"height="50"alt="Docker" /></a><a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"alt="scikit_learn"width="50"height="50" /></a><a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg"width="50"height="50"alt="TensorFlow" /></a><a href="https://opencv.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg"alt="opencv"width="50"height="50"/></a></p>
+<div>
+	<img
+		src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+		alt="javascript"
+		width="56"
+		height="56"
+	/>
+	<img
+		src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
+		alt="typescript"
+		width="56"
+		height="56"
+	/>
+	<img
+		src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+		alt="python"
+		width="56"
+		height="56"
+	/>
+	<img
+		src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg"
+		alt="dart"
+		width="56"
+		height="56"
+	/>
+	<img
+		src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"
+		alt="html5"
+		width="56"
+		height="56"
+	/>
+	<img
+		src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"
+		alt="css3"
+		width="56"
+		height="56"
+	/>
+	<img
+		src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg"
+		alt="tailwind"
+		width="56"
+		height="56"
+	/>
+	<img
+		src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"
+		alt="react"
+		width="56"
+		height="56"
+	/>
+	<img
+		src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"
+		alt="nodejs"
+		width="56"
+		height="56"
+	/>
+	<img
+		src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg"
+		alt="express"
+		width="56"
+		height="56"
+	/>
+	<img
+		src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg"
+		alt="flutter"
+		width="56"
+		height="56"
+	/>
+	<img
+		src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"
+		alt="postgresql"
+		width="56"
+		height="56"
+	/>
+	<img
+		src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"
+		alt="mongodb"
+		width="56"
+		height="56"
+	/>
+	<img
+		src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-original.svg"
+		alt="firebase"
+		width="56"
+		height="56"
+	/>
+	<img
+		src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"
+		alt="git"
+		width="56"
+		height="56"
+	/>
+	<img
+		src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"
+		alt="docker"
+		width="56"
+		height="56"
+	/>
+	<img
+		src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg"
+		alt="tensorflow"
+		width="56"
+		height="56"
+	/>
+	<img
+		src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg"
+		alt="scikit_learn"
+		width="56"
+		height="56"
+	/>
+	<img
+		src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg"
+		alt="pandas"
+		width="56"
+		height="56"
+	/>
+	<img
+		src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg"
+		alt="pandas"
+		width="56"
+		height="56"
+	/>
+	<img
+		src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg"
+		alt="pandas"
+		width="56"
+		height="56"
+	/>
+</div>
 
 # 🌐 Socials
 
-<a href="www.linkedin.com/in/hendra-irawan-1791bb295" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="65" height="50" alt="linkedin logo"/></a><a href="https://discord.com/users/826484425554526209" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="65" height="50" alt="discord logo"/></a>
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/826484425554526209)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hendra-irawan-1791bb295)
 
 # 📊 My GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=H9drairawan&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+<!-- ![](https://github-readme-stats.vercel.app/api?username=H9drairawan&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/> -->
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=H9drairawan&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=H9drairawan&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 # ✍️ Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
----
+
+## ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 [![](https://visitcount.itsvg.in/api?id=H9drairawan&icon=0&color=1)](https://visitcount.itsvg.in)
