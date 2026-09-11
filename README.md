@@ -117,9 +117,7 @@ Bachelor's degree graduate in Informatics from Institut Sains dan Teknologi Terp
 
 # 📊 My GitHub Stats
 
-<!-- ![](https://github-readme-stats.vercel.app/api?username=H9drairawan&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/> -->
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=H9drairawan&theme=radical&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=H9drairawan&theme=radical&date_format=M%20j%5B%2C%20Y%5D&hide_border=false&mode=weekly)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=H9drairawan&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 # ✍️ Quote
