@@ -115,11 +115,6 @@ Bachelor's degree graduate in Informatics from Institut Sains dan Teknologi Terp
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/826484425554526209)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hendra-irawan-1791bb295)
 
-# 📊 My GitHub Stats
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=H9drairawan&theme=radical&date_format=M%20j%5B%2C%20Y%5D&hide_border=false&mode=weekly)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=H9drairawan&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
 # ✍️ Quote
 
 ## ![](https://quotes-github-readme.vercel.app/api?theme=radical)
