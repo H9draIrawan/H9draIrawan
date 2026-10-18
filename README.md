@@ -13,6 +13,12 @@ Graduate in Informatics from Institut Sains dan Teknologi Terpadu Surabaya with 
 
 <div>
 <img
+	src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg"
+	alt="vscode"
+	width="64"
+	height="64"
+/>
+<img
 	src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"
 	alt="vscode"
 	width="64"
@@ -79,6 +85,12 @@ Graduate in Informatics from Institut Sains dan Teknologi Terpadu Surabaya with 
 	height="64"
 />
 <img
+	src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg"
+	alt="materialui"
+	width="64"
+	height="64"
+/>
+<img
 	src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"
 	alt="nodejs"
 	width="64"
@@ -127,8 +139,20 @@ Graduate in Informatics from Institut Sains dan Teknologi Terpadu Surabaya with 
 	height="64"
 />
 <img
+	src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg"
+	alt="supabase"
+	width="64"
+	height="64"
+/>
+<img
 	src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-original.svg"
 	alt="firebase"
+	width="64"
+	height="64"
+/>
+<img
+	src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg"
+	alt="redis"
 	width="64"
 	height="64"
 />
