@@ -223,8 +223,14 @@ Graduate in Informatics from Institut Sains dan Teknologi Terpadu Surabaya with 
 
 [![Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)](https://github.com/piyushsuthar/github-readme-quotes)
 
+###
+
+<br clear="both">
+
 <picture data-importer="pacman">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/H9draIrawan/H9draIrawan/pacman-output/puzzle-bobble-contribution-graph-dark.svg?game=puzzle-bobble">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/H9draIrawan/H9draIrawan/pacman-output/puzzle-bobble-contribution-graph.svg?game=puzzle-bobble">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/H9draIrawan/H9draIrawan/pacman-output/puzzle-bobble-contribution-graph.svg?game=puzzle-bobble">
 </picture>
+
+###
