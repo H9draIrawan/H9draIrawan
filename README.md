@@ -1,3 +1,9 @@
+<div data-importer="image" align="center">
+  <img data-importer="image" height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
+
+###
+
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Hendra Irawan
 
 ## Software Engineer
@@ -215,7 +221,7 @@ Graduate in Informatics from Institut Sains dan Teknologi Terpadu Surabaya with 
 
 # ✍️ Quote
 
-## ![](https://quotes-github-readme.vercel.app/api?theme=radical)
+[![Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)](https://github.com/piyushsuthar/github-readme-quotes)
 
 <picture data-importer="pacman">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/H9draIrawan/H9draIrawan/pacman-output/galaga-contribution-graph-dark.svg?game=galaga">
