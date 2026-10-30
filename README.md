@@ -8,7 +8,9 @@ Graduate in Informatics from Institut Sains dan Teknologi Terpadu Surabaya with 
 
 - 🌍 I'm based in Indonesia
 - ✉️ You can contact me at [h9drairawan@gmail.com](mailto:h9drairawan@gmail.com)
-
+- 🧠  I'm currently learning AWS
+- 👥  I'm looking to collaborate on website development
+  
 # 💻 Skills and Tools
 
 <div>
@@ -45,6 +47,24 @@ Graduate in Informatics from Institut Sains dan Teknologi Terpadu Surabaya with 
 <img
 	src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"
 	alt="css3"
+	width="64"
+	height="64"
+/>
+<img
+	src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
+	alt="java"
+	width="64"
+	height="64"
+/>
+<img
+	src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"
+	alt="php"
+	width="64"
+	height="64"
+/>
+<img
+	src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg"
+	alt="kotlin"
 	width="64"
 	height="64"
 />
@@ -163,6 +183,12 @@ Graduate in Informatics from Institut Sains dan Teknologi Terpadu Surabaya with 
 	height="64"
 />
 <img
+	src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg"
+	alt="amazonwebservices"
+	width="64"
+	height="64"
+/>
+<img
 	src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"
 	alt="docker"
 	width="64"
@@ -190,3 +216,11 @@ Graduate in Informatics from Institut Sains dan Teknologi Terpadu Surabaya with 
 # ✍️ Quote
 
 ## ![](https://quotes-github-readme.vercel.app/api?theme=radical)
+
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/H9draIrawan/H9draIrawan/pacman-output/galaga-contribution-graph-dark.svg?game=galaga">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/H9draIrawan/H9draIrawan/pacman-output/galaga-contribution-graph.svg?game=galaga">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/H9draIrawan/H9draIrawan/pacman-output/galaga-contribution-graph.svg?game=galaga">
+</picture>
+
+###
