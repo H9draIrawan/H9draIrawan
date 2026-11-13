@@ -22,7 +22,7 @@ Graduate in Informatics from Institut Sains dan Teknologi Terpadu Surabaya with 
 <div>
 <img
 	src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg"
-	alt="vscode"
+	alt="androidstudio"
 	width="64"
 	height="64"
 />
@@ -57,8 +57,26 @@ Graduate in Informatics from Institut Sains dan Teknologi Terpadu Surabaya with 
 	height="64"
 />
 <img
+	src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
+	alt="cplusplus"
+	width="64"
+	height="64"
+/>
+<img
+	src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
+	alt="csharp"
+	width="64"
+	height="64"
+/>
+<img
 	src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
 	alt="java"
+	width="64"
+	height="64"
+/>
+<img
+	src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg"
+	alt="kotlin"
 	width="64"
 	height="64"
 />
@@ -69,8 +87,8 @@ Graduate in Informatics from Institut Sains dan Teknologi Terpadu Surabaya with 
 	height="64"
 />
 <img
-	src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg"
-	alt="kotlin"
+	src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+	alt="python"
 	width="64"
 	height="64"
 />
@@ -105,6 +123,12 @@ Graduate in Informatics from Institut Sains dan Teknologi Terpadu Surabaya with 
 	height="64"
 />
 <img
+	src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg"
+	alt="angular"
+	width="64"
+	height="64"
+/>
+<img
 	src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg"
 	alt="flutter"
 	width="64"
@@ -113,6 +137,12 @@ Graduate in Informatics from Institut Sains dan Teknologi Terpadu Surabaya with 
 <img
 	src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg"
 	alt="materialui"
+	width="64"
+	height="64"
+/>
+<img
+	src="https://raw.githubusercontent.com/devicons/devicon/master/icons/shadcn/shadcn-original.svg"
+	alt="shadcn"
 	width="64"
 	height="64"
 />
@@ -129,11 +159,29 @@ Graduate in Informatics from Institut Sains dan Teknologi Terpadu Surabaya with 
 	height="64"
 />
 <img
+	src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg"
+	alt="nestjs"
+	width="64"
+	height="64"
+/>
+<img
+	src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg"
+	alt="spring"
+	width="64"
+	height="64"
+/>
+<img
 	src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"
 	alt="redux"
 	width="64"
 	height="64"
 />
+<img
+	src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jwt/jwt-original.svg"
+	alt="jwt"
+	width="64"
+	height="64"
+/>	
 <img
 	src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"
 	alt="postgresql"
