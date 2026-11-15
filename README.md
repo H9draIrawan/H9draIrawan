@@ -27,6 +27,12 @@ Graduate in Informatics from Institut Sains dan Teknologi Terpadu Surabaya with 
 	height="64"
 />
 <img
+	src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg"
+	alt="intellij"
+	width="64"
+	height="64"
+/>
+<img
 	src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"
 	alt="vscode"
 	width="64"
@@ -35,12 +41,6 @@ Graduate in Informatics from Institut Sains dan Teknologi Terpadu Surabaya with 
 <img
 	src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neovim/neovim-original.svg"
 	alt="neovim"
-	width="64"
-	height="64"
-/>
-<img
-	src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg"
-	alt="postman"
 	width="64"
 	height="64"
 />
@@ -237,14 +237,20 @@ Graduate in Informatics from Institut Sains dan Teknologi Terpadu Surabaya with 
 	height="64"
 />
 <img
+	src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"
+	alt="docker"
+	width="64"
+	height="64"
+/>
+<img
 	src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg"
 	alt="amazonwebservices"
 	width="64"
 	height="64"
 />
 <img
-	src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"
-	alt="docker"
+	src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg"
+	alt="postman"
 	width="64"
 	height="64"
 />
